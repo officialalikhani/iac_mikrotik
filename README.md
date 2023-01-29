@@ -12,7 +12,7 @@ This panel is for automate configuration Site/Site VPN and Remote access VPN , Y
 ![Capture3](https://user-images.githubusercontent.com/62111040/215326377-a30ecbee-cd59-4e39-a4a5-3e41d20002ae.JPG)
 
 
-## Configure Site/Site VPN and Connect local Network to exists VPN you created with this automation.
+## Configure Site/Site VPN and Connect local Network to exists VPN 
 
 
 ![Capture2](https://user-images.githubusercontent.com/62111040/215326321-db0ddf9e-5930-402e-9c8a-cb6c8f9757da.JPG)
