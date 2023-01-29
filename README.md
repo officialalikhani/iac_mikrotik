@@ -1,5 +1,5 @@
 # Mikrotik IAC
-![Capture](https://user-images.githubusercontent.com/62111040/215326281-e641176e-7e5c-485c-a58a-a4da14b5f4d5.JPG)
+![Untitled](https://user-images.githubusercontent.com/62111040/215326713-bccea1bc-c5f1-437c-8854-744534fa6e26.png)
 
 ```bash
 Configure Remote Access VPN Like ovpn/sstp/l2tp/pptp
